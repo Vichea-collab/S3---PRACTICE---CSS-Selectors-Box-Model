@@ -1,0 +1,40 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+
+}
+.first {
+    background-color: white;
+    margin: 0px 100px;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+.r1 {
+    background-color: green;
+    border-radius: 30px;
+    cursor: pointer;
+    color: white;
+}
+.second {
+    background-color: white;
+    margin: 30px 100px;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+.r2 {
+    background-color: orange;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.third {
+    background-color: white;
+    margin: 30px 100px;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+.r3 {
+    background-color: purple;
+    border-radius: 30px;
+    cursor: pointer;
+    color: white;
+}
